@@ -4,3 +4,5 @@
 <img width="500" alt="result" src="https://github.com/Git-Yuya/frequency-characteristic/assets/84259422/b8806b77-a78b-4cf3-be5d-059adfffb381">
 
 ## 実装
+- 言語：
+  <img src="https://img.shields.io/badge/-MATLAB-DD1100.svg?logo=matlab&style=plastic">
